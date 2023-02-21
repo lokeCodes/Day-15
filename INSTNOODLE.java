@@ -1,5 +1,8 @@
 /* package codechef; // don't place package name! */
 
+// https://www.codechef.com/problems/INSTNOODLE
+// Question Link^^^
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
